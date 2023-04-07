@@ -7,6 +7,10 @@
 ## 📚 About Me
 Senior Data Consultant and Data Scientist with extensive experience in Information Management and Data Analytics. Adept at designing and implementing innovative solutions across various industries, including government, automotive, and IT consulting. Proficient in Python, R, Big Data technologies, and Machine Learning. Passionate about leveraging data to drive actionable insights, improve processes, and support decision-making.
 
+My vision is to contribute to the transformative power of technological and scientific advancements, particularly in artificial intelligence. Through my in-depth expertise in the analysis of massive data and software development, I have worked with multidisciplinary and international teams, constantly challenging the status quo and effectively communicating my work.
+
+I am now particularly passionate about massive data analysis, high-value-added analysis workflows, and data science. With my dual expertise in science and computer science, I am excited to continue advancing AI research.
+
 ## Experience:
 
 ### 🇨🇦 KPMG Canada (Oct 2022 - Present): Senior Consultant, Information Management & Data Analytics
