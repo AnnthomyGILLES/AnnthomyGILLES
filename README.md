@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Annthomy GILLES
 
 🌎 Location: Montréal, Québec, Canada
+
 📖 Fundamentals of Data Engineering (∼50%)
+
 🔗 LinkedIn: https://www.linkedin.com/in/annthomygilles
 
 ## 📚 About Me
