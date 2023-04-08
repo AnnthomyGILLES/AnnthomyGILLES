@@ -78,7 +78,7 @@ Senior Data Consultant and Data Scientist with extensive experience in Informati
 | Environment                   | 💻 High Performance Computing, 🐧 Linux                                                                                                                                                       |
 | Data Science                  | 🛠️ Data Engineering, 🧑‍💼 Data Governance, 📈📉📊 Big Data, 🤖 Machine Learning, 📊 Data Analytics, 🍃MongoDB, 🐳 Docker, 🗃️ PostgreSQL, ☁️ Amazon Web Services (AWS), 📈 JIRA, 🌐 Web Development, 🧑‍🔬 NLP              |
 
-## Education
+## 🏫 Education
 
 ### University of Rouen Normandie
 
