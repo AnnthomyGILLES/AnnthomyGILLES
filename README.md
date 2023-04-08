@@ -11,7 +11,7 @@ Senior Data Consultant and Data Scientist with extensive experience in Informati
 [ChatGPT: Reflet du bullshit en entreprise](https://medium.com/@AnnthomyG/chatgpt-reflet-du-bullshit-en-entreprise-b5b934535b1a?source=your_stories_page-------------------------------------)\
 [Comprendre les métiers de la Data le temps d’une pause café.](https://medium.com/@AnnthomyG/comprendre-les-m%C3%A9tiers-de-la-data-le-temps-dune-pause-caf%C3%A9-45c6c2d8d326)\
 [Is your organization TRULY data-driven? 12 questions to find out!](https://positivethinking.tech/insights/is-your-organization-truly-data-driven-12-questions-to-find-out/#utm_source=Blog_Article&utm_medium=LinkedIn_PTC&utm_campaign=Data-driven%2012-question%20assesment)\
-[Le Temps Guérit Tout. Excepté Le Mauvais Code.](https://medium.com/@AnnthomyG/https-medium-com-annthomyg-le-temps-guerit-tout-excepte-le-mauvais-code-364648b9cd80)\
+[Le Temps Guérit Tout. Excepté Le Mauvais Code.](https://medium.com/@AnnthomyG/https-medium-com-annthomyg-le-temps-guerit-tout-excepte-le-mauvais-code-364648b9cd80)
 
 ### Current side projects
 
