@@ -34,7 +34,7 @@ Senior Data Consultant and Data Scientist with extensive experience in Informati
  - Integrating Spark for data analysis and processing. 
  - Project is focused on learning Kafka and expanding knowledge of big data technologies.
 
-## Experience:
+## Experience
 
 ### 🇨🇦 KPMG Canada (Oct 2022 - Present): Senior Consultant, Information Management & Data Analytics
 
