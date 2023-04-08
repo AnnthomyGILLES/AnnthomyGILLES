@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Annthomy GILLES
 
-🌎 Location: Montréal, Québec, Canada  
-🔗 LinkedIn: https://www.linkedin.com/in/annthomygilles
+🌎 Location: Montréal, Québec, Canada
 📖 Fundamentals of Data Engineering (∼50%)
+🔗 LinkedIn: https://www.linkedin.com/in/annthomygilles
 
 ## 📚 About Me
 Senior Data Consultant and Data Scientist with extensive experience in Information Management and Data Analytics. Adept at designing and implementing innovative solutions across various industries, including government, automotive, and IT consulting. Proficient in Python, R, Big Data technologies, and Machine Learning. Passionate about leveraging data to drive actionable insights, improve processes, and support decision-making.
