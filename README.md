@@ -2,7 +2,7 @@
 
 🌎 Location: Montréal, Québec, Canada
 
-📖 Fundamentals of Data Engineering (∼50%)
+📖 [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) (∼50%)
 
 🔗 LinkedIn: https://www.linkedin.com/in/annthomygilles
 
