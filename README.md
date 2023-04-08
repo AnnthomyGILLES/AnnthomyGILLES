@@ -19,8 +19,10 @@ Senior Data Consultant and Data Scientist with extensive experience in Informati
     -   Building a dashboard connected to a database using Flask, mySQL, and web scraping.\
     -   Implemented automatic notifications sent to Discord and Telegram.\
 **WhatsApp Integration - Private**📱💬\
-    -   Building a Python pipeline connected to a database using Flask, MongoDB, and Docker.\
-    -   Implemented API integration with WhatsApp for automated messaging.\
+ - Building a Python pipeline connected to a database using Flask,
+ - MongoDB, and Docker. Implemented API integration with WhatsApp for
+   automated messaging.
+
 **Weather Data Aggregation with Kafka - Public** ☁️🌡️\
     -   Building a project to scrape weather data from different APIs.\
     -   Experimenting with Kafka to aggregate the data.\
