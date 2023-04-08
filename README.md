@@ -1,15 +1,26 @@
 
-# 👋 Hi, I'm Annthomy GILLES
-
 🌎 Location: Montréal, Québec, Canada  
 🔗 LinkedIn: https://www.linkedin.com/in/annthomygilles
+📖 Fundamentals of Data Engineering (∼50%)
 
 ## 📚 About Me
 Senior Data Consultant and Data Scientist with extensive experience in Information Management and Data Analytics. Adept at designing and implementing innovative solutions across various industries, including government, automotive, and IT consulting. Proficient in Python, R, Big Data technologies, and Machine Learning. Passionate about leveraging data to drive actionable insights, improve processes, and support decision-making.
 
-My vision is to contribute to the transformative power of technological and scientific advancements, particularly in artificial intelligence. Through my in-depth expertise in the analysis of massive data and software development, I have worked with multidisciplinary and international teams, constantly challenging the status quo and effectively communicating my work.
+### Current side projects
 
-I am now particularly passionate about massive data analysis, high-value-added analysis workflows, and data science. With my dual expertise in science and computer science, I am excited to continue advancing AI research.
+ 1. **Dashboard Project - Private** 📊💻
+    -   Building a dashboard connected to a database using Flask, mySQL, and web scraping.
+    -   Implemented automatic notifications sent to Discord and Telegram.
+    
+ 2. **WhatsApp Integration - Private**📱💬
+    -   Building a Python pipeline connected to a database using Flask, MongoDB, and Docker.
+    -   Implemented API integration with WhatsApp for automated messaging.
+       
+ 3. **Weather Data Aggregation with Kafka - Public** ☁️🌡️
+    -   Building a project to scrape weather data from different APIs.
+    -   Experimenting with Kafka to aggregate the data.
+    -   Integrating Spark for data analysis and processing.
+    -   Project is focused on learning Kafka and expanding knowledge of big data technologies.
 
 ## Experience:
 
