@@ -1,6 +1,7 @@
 
 🌎 Location: Montréal, Québec, Canada  
 🔗 LinkedIn: https://www.linkedin.com/in/annthomygilles
+
 📖 Fundamentals of Data Engineering (∼50%)
 
 ## 📚 About Me
