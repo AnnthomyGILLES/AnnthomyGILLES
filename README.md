@@ -67,7 +67,7 @@ Senior Data Consultant and Data Scientist with extensive experience in Informati
 | Tools                         | 🧰 Git, 📊 Matplotlib, 🔢 Numpy, 🐼 Pandas, 🍃 Pymongo, 🔬 Scipy, 🤖 Scikit-learn, 🌊 Seaborn, 🔗 SQLalchemy                                                                                     |
 | Web Development               | 🌐 HTML5/CSS3, 💻 Javascript, 🌶️ Flask                                                                                                                                                               |
 | Environment                   | 💻 High Performance Computing, 🐧 Linux                                                                                                                                                       |
-| Data Science                  | 🛠️ Data Engineering, 🧑‍💼 Data Governance, 📈📉📊 Big Data, 🤖 Machine Learning, 📊 Data Analytics, 🍃 MongoDB, 🐳 Docker, 🗃️ PostgreSQL, ☁️ Amazon Web Services (AWS), 📈 JIRA, 🌐 Web Development, 🧑‍🔬 NLP              |
+| Data Science                  | 🛠️ Data Engineering, 🧑‍💼 Data Governance, 📈📉📊 Big Data, 🤖 Machine Learning, 📊 Data Analytics, 🍃MongoDB, 🐳 Docker, 🗃️ PostgreSQL, ☁️ Amazon Web Services (AWS), 📈 JIRA, 🌐 Web Development, 🧑‍🔬 NLP              |
 
 ## Education
 
