@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Annthomy GILLES
 
-🌎 Location: Montréal, Québec, Canada
-
-📖 [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) (∼50%)
-
+🌎 Location: Montréal, Québec, Canada\
+📖 [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) (∼50%)\
 🔗 LinkedIn: https://www.linkedin.com/in/annthomygilles
 
 ## 📚 About Me
