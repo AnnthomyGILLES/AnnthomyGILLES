@@ -15,15 +15,13 @@ Senior Data Consultant and Data Scientist with extensive experience in Informati
 
 ### Current side projects
 
- 1. **Dashboard Project - Private** 📊💻
+**Dashboard Project - Private** 📊💻
     -   Building a dashboard connected to a database using Flask, mySQL, and web scraping.
     -   Implemented automatic notifications sent to Discord and Telegram.
-    
- 2. **WhatsApp Integration - Private**📱💬
+**WhatsApp Integration - Private**📱💬
     -   Building a Python pipeline connected to a database using Flask, MongoDB, and Docker.
     -   Implemented API integration with WhatsApp for automated messaging.
-       
- 3. **Weather Data Aggregation with Kafka - Public** ☁️🌡️
+**Weather Data Aggregation with Kafka - Public** ☁️🌡️
     -   Building a project to scrape weather data from different APIs.
     -   Experimenting with Kafka to aggregate the data.
     -   Integrating Spark for data analysis and processing.
