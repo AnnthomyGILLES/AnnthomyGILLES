@@ -5,9 +5,16 @@
 📖 [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) (∼20%)
 📖 [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) (∼20%)
 
-
 ## 📚 About Me
-Senior Data Consultant and Data Scientist with extensive experience in Information Management and Data Analytics. Adept at designing and implementing innovative solutions across various industries, including government, automotive, and IT consulting. Proficient in Python, R, Big Data technologies, and Machine Learning. Passionate about leveraging data to drive actionable insights, improve processes, and support decision-making.
+
+Senior Data Scientist and AI Engineer with a multidisciplinary background spanning computational biology and advanced analytics. I specialize in developing data-driven solutions that transform complex challenges into actionable insights across industries including finance, healthcare, automotive, and government.
+
+With expertise in both technical implementation and strategic product development, I excel at bridging the gap between cutting-edge technology and business value. My experience includes:
+
+- **AI/ML Engineering**: Designing and implementing machine learning models and workflows with a focus on NLP, generative AI, and network analysis
+- **Product Development**: Leading full-lifecycle product creation from ideation to market deployment, including an Anti-Money Laundering application
+- **Data Architecture**: Architecting robust data pipelines and governance frameworks for complex, multi-source environments
+- **Cross-functional Leadership**: Collaborating effectively with stakeholders from technical and non-technical backgrounds to deliver impactful solutions
 
 ### My Articles
 [ChatGPT: Reflet du bullshit en entreprise](https://medium.com/@AnnthomyG/chatgpt-reflet-du-bullshit-en-entreprise-b5b934535b1a?source=your_stories_page-------------------------------------)  
