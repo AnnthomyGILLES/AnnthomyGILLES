@@ -3,6 +3,7 @@
 🌎 Location: Montréal, Québec, Canada  
 🔗 LinkedIn: https://www.linkedin.com/in/annthomygilles  
 📖 [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) (∼20%)
+
 📖 [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) (∼20%)
 
 ## 📚 About Me
